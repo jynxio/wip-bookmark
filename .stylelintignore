@@ -1,0 +1,11 @@
+# Development
+**/.git
+**/.wxt
+**/.output
+**/node_modules
+
+
+# Production
+**/out
+**/dist
+**/build
